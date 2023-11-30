@@ -1,0 +1,208 @@
+Név:Balla Mátyás Miklós
+Szak:Gazdaságinformatikus
+Neptun azonosító:O4CZH9
+1. Mi az objektumorientált programozás alapegysége?
+a) Függvény
+b) Objektum
+c) Változó
+d) Ciklus
+Válasz:b
+
+
+
+
+2. Mit jelent a 'self' kulcsszó egy osztály metódusán belül Pythonban?
+a) Az osztályt magát
+b) Az osztály egy példányát
+c) A metódust magát
+d) A futtató környezetet
+Válasz:a
+
+
+
+
+3. Melyik NEM tartozik a Pythonban az objektumorientált programozás alapvető jellemzői közé?
+a) Egységbezárás
+b) Modulok
+c) Öröklődés
+d) Polimorfizmus
+Válasz:b
+
+
+
+
+4. Mire szolgál az init metódus Pythonban?
+a) Egy osztály törlésére
+b) Egy osztály példányának inicializálására
+c) Az osztály statikus metódusainak definiálására
+d) Egy osztály metódusainak futtatására
+Válasz:b
+
+
+
+
+5. Mi a célja az absztrakt osztályoknak Pythonban?
+a) Egy osztály teljes funkcionalitásának megvalósítása
+b) Egy osztály öröklésének megakadályozása
+c) Egy osztály példányosításának lehetővé tétele
+d) Egy osztály öröklési szerkezetének és alapvető viselkedésének definiálása
+Válasz:d
+
+
+
+
+6. Mi az eredménye az alábbi Python kód futtatásának?
+
+
+class Animal:
+def speak(self):
+print("Animal speaks")
+class Dog(Animal):
+def speak(self):
+print("Dog barks")
+
+
+d = Dog()
+d.speak()
+
+
+a) Animal speaks
+b) Dog barks
+c) Semmi, hiba lép fel
+d) A kód nem fut le
+Válasz:c
+
+
+
+
+7. Melyik NEM egy valós Python adattípus?
+a) list
+b) tuple
+c) Linked list
+d) dictionary
+Válasz:c
+
+
+
+
+8. Mit jelent a Pythonban az egységbezárás (encapsulation)?
+a) Az adatok elrejtése közvetlen hozzáféréstől
+b) Egy függvény többszörös meghívása
+c) Az osztálypéldányok többszörös létrehozása
+d) Az adatok megosztása minden osztálypéldány között
+Válasz:a
+
+
+
+
+9. Mi a helyes módja az osztálypéldány attribútumának elérésének Pythonban?
+a) Class>attribute
+b) Class->attribute
+c) Class::attribute
+d) instance.attribute
+Válasz:d
+
+
+
+
+10. Melyik Python kulcsszót használjuk az öröklődés megvalósításához?
+a) extends
+b) implements
+c) inherits
+d) class Child(Parent):
+Válasz:d
+
+
+
+
+11. Mi a feladata a super() függvénynek?
+a) Az aktuális osztály szuperosztályának metódusainak hívása
+b) Az aktuális osztály törlése
+c) Az összes osztálypéldány törlése
+d) A program gyorsítása
+Válasz:a
+
+
+
+
+12. Mikor használjuk a 'pass' kulcsszót Pythonban?
+a) Az osztályok és függvények konkrét implementációjának írásához
+b) Egy függvény vagy osztály azonnali végrehajtásához
+c) Egy hurok vagy feltétel azonnali befejezéséhez
+d) Egy üres blokk megadásához, ahol a kód még nem került implementálásra
+Válasz:d
+
+
+
+
+13. Melyik a helyes módja egy osztálypéldány metódusának meghívásának?
+a) classname.methodname()
+b) classname->methodname()
+c) methodname(classname)
+d) instance.methodname()
+Válasz:d
+
+
+
+
+14. Mi történik, ha egy osztályban nem definiáljuk a __init__ metódust?
+a) A program hibát generál
+b) Az osztály nem használható
+c) Az osztály automatikusan kap egy alapértelmezett __init__ metódust
+d) Az osztály minden metódusa hibás lesz
+Válasz:c
+
+
+
+
+15. Mi a szerepe az objektumorientált programozásban a polimorfizmusnak?
+a) Azonos interfész megvalósítása különböző osztályok által
+b) Az objektumok létrehozásának automatizálása
+c) Különböző osztályok közötti adatátvitel megkönnyítése
+d) Az öröklődési hierarchia egyszerűsítése
+Válasz:a
+
+
+
+
+16. Mi az a tervezési minta (design pattern) a szoftverfejlesztésben?
+a) Egy programozási nyelv
+b) Egy konkrét kódreszlet, amelyet minden programban fel lehet használni
+c) Egy megoldási sablon gyakori problémákra
+d) Egy szoftverfejlesztési metodológia
+Válasz:c
+
+
+17. Mi a Gang of Four (GoF) hozzájárulása a szoftvertervezéshez?
+
+
+a) A Python programozási nyelv megalkotása
+b) Az első operációs rendszer fejlesztése
+c) A tervezési minták gyűjteményének létrehozása
+d) A leggyorsabb számítógép megépítése
+Válasz:c
+
+
+18. Mi az OOP célja az alábbiakból?
+a) Adatbázis kezelés
+b) Eljárási, procedurális programozás kiegészítése
+c) Alacsony szintű memóriakezelés
+d) Grafikus felhasználói felület kialakítása
+Helyes válasz:b
+
+
+19. Mi a "class" kulcsszó szerepe Pythonban?
+a) Fájl kezelés
+b) Modul importálás
+c) Osztály létrehozása
+d) Függvény definiálás
+Helyes válasz:c
+
+
+20. Mire használjuk az öröklődést (inheritance) az OOP-ban?
+a) Kódmegosztás és újrafelhasználhatóság
+b) Memóriakezelés optimalizálása
+c) Fájlkezelés egyszerűsítése
+d) Végtelen ciklusok elkerülése
+Helyes válasz:a
+
